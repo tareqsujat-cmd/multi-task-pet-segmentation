@@ -225,5 +225,7 @@ Random seeds are fixed (42) across Python, NumPy, and PyTorch. Note that GPU ope
 
 ## Author
 
-**Tareq Sujat**: CSE 428, [Your University]
+**Tareq Sujat**
+CSE 428
+**Brac University**
 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [GitHub](https://github.com/YOUR-USERNAME)
